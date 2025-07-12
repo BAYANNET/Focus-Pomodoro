@@ -2,8 +2,6 @@ Focus Pomodoro
 A minimalist desktop app to help you fight distractions and stay focused.
 Based on the Pomodoro Technique, it's 100% free and ready to boost your productivity.
 
-(Tip: Replace the link above with a real screenshot or GIF of your app)
-
 English
 About The App
 In a world filled with notifications and distractions, staying focused is a real challenge. Focus Pomodoro is a simple desktop tool, inspired by the famous Pomodoro Technique, designed to help you structure your work into intense focus sessions, interspersed with well-deserved breaks.
